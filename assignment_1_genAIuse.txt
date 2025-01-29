@@ -1,0 +1,11 @@
+Generative AI was used sparingly in this project as a reference source. 
+
+Use 1: refresher on OOP structure and syntax.
+ie. 
+"How can I properly store a global function as an attribute of a class?"
+and
+"Please remind me the proper syntax for initializing a class with an __init__() function"
+
+Use 2: held my hand through pushing this assignment to git. 
+ie.
+"Please guide me through the process of creating and pushing to a git repo via the command line"
